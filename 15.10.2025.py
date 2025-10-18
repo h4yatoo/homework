@@ -1,11 +1,9 @@
 # 1
-# a=int(input())
-# match a%5:
-#     case 0:
-#         print('true')
-#     case _:
-#          print('false')
-
+# a=int(float(input()))
+# if a%5==0
+#     print('true')
+# else:
+#     print('false')
 #2
 # a=int(input())
 # match a:
