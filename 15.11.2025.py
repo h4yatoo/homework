@@ -13,3 +13,8 @@
 # s=('a','b','c')
 # a,b,c=s
 # print(b)
+
+s=('a','b','c','d')
+a,*b=s
+print(a)
+print(b)
